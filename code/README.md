@@ -6,6 +6,8 @@ This is an implementation of the following model :
 	M. Keramati, A. Dezfouli, P. Piray. Plos Comp Bio, 7(5), 2011
 
 ## Installation
+> A Docker image with this environment is also available,
+see the README.md of the docker directory.
 
 	It requires at least python 2.7.3, numpy 1.8.0, matplotlib 1.4, scipy 0.13.0
 
