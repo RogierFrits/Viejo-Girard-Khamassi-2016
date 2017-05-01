@@ -19,6 +19,8 @@ except Exception:
 import numpy as np
 from fonctions import *
 from models import *
+import matplotlib
+matplotlib.use('Agg')
 from matplotlib import *
 from pylab import *
 import sys
